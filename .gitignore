@@ -1,0 +1,6 @@
+data/*.csv
+data/images/*
+logs/
+
+*checkpoints*
+*.pyc
